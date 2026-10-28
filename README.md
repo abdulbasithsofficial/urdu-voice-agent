@@ -1,3 +1,5 @@
+![Thumbnail](thumbnail.png)
+
 # UrduVoice-Agent
 Benefit: A starter template for a bilingual Roman Urdu/Hindi AI voice sales agent, so a small business can qualify leads by voice without building the conversation flow from scratch.
 
